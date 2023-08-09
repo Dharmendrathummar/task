@@ -1,0 +1,12 @@
+D:\GitHub\Task\task\task.data\bin\Debug\net7.0\task.data.deps.json
+D:\GitHub\Task\task\task.data\bin\Debug\net7.0\task.data.dll
+D:\GitHub\Task\task\task.data\bin\Debug\net7.0\task.data.pdb
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\task.data.csproj.AssemblyReference.cache
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\task.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\task.data.AssemblyInfoInputs.cache
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\task.data.AssemblyInfo.cs
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\task.data.csproj.CoreCompileInputs.cache
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\task.data.dll
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\refint\task.data.dll
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\task.data.pdb
+D:\GitHub\Task\task\task.data\obj\Debug\net7.0\ref\task.data.dll
